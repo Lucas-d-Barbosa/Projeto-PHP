@@ -1,0 +1,19 @@
+{
+    "name": "lucas/phpprofissional",
+    "description": "php-profissional",
+    "autoload": {
+        "files": [
+            
+        ],
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Barbosa",
+            "email": "francisco.lucas.d.santos.barbosa@gmail.com"
+        }
+    ],
+    "require": {}
+}
